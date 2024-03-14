@@ -1,2 +1,1 @@
-**Assignments A2**
-
+**Assignments A2 of Analysing Data**
